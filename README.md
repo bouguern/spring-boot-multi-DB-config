@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this blog post, we will go through the steps to configure multiple databases in a Spring Boot application. For the complete code, please visit my [Medium repository](https://medium.com/@bouguern.mohamed/configure-multiple-data-sources-postgres-mysql-in-a-spring-boot-3-03f67e45c287).
+In this blog post, we will go through the steps to configure multiple databases in a Spring Boot application. For the explaination, please visit my [Medium repository](https://medium.com/@bouguern.mohamed/configure-multiple-data-sources-postgres-mysql-in-a-spring-boot-3-03f67e45c287).
 
 
 ## Run the Application
